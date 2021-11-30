@@ -1,2 +1,4 @@
 # Community-Toolbox
 A toolbox of resources for communities to create their own democratically-managed broadband internet infrastructure.
+
+Our goal is to give disconnected communities the resources they need to take control of their own internet access. Large swaths of the United States lack broadband internet, which prevents these people from exercising their democratic rights. For example, so many resources that we take for granted: reading information on candidate backgrounds, registering to vote, connecting to community forums, registering for vaccine appointments, and emailing local representatives are difficult if not impossible without sufficient internet infrastructure. There is already precedent for communities to become their own internet service providers, and our goal is to provide these tools to more communities in an attempt to scale this solution to a much larger number of people.
